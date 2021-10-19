@@ -1,0 +1,58 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon May 10 12:23:09 2021
+| Host         : pc running 64-bit Ubuntu 18.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tftg256-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'fifo_4k'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of fifo_4k (xilinx.com:ip:fifo_generator:13.2 (Rev. 5)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon May 10 12:20:47 2021
+| Host         : pc running 64-bit Ubuntu 18.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tftg256-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'fifo_1k'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of fifo_1k (xilinx.com:ip:fifo_generator:13.2 (Rev. 5)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon May 10 12:19:59 2021
+| Host         : pc running 64-bit Ubuntu 18.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7a35tftg256-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'pll'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of pll (xilinx.com:ip:clk_wiz:6.0 (Rev. 6)) to Vivado generation flows.
+
